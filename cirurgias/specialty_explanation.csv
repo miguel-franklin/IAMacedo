@@ -1,0 +1,16 @@
+﻿_id,column,description
+1,1,the code of the facility
+2,2,the name of the facility
+3,3,the month to which the data refers
+4,4,the code of the surgical specialty of the patient 
+5,5,the description of the surgical specialty of the patient 
+6,6,number of elective surgery patients treated
+7,7,percent of elective surgery patients treated within the clinically recommended time
+8,8,variation in number of elective surgery patients treated between reporting month and reference month  in the previous year
+9,9,number of elective surgery patients waiting on the day after the month
+10,10,number of elective surgery patients waiting longer than the clinically recommended time on the day after the month – ready for surgery and not ready for surgery
+11,11,percent of elective surgery patients waiting within the clinically recommended time on the day after the month – ready for surgery and not ready for surgery
+12,12,date data last updated
+13,13,number of elective surgery patients waiting longer than the clinically recommended time on the day after the month – ready for surgery
+14,14,number of elective surgery patients waiting longer than the clinically recommended time on the day after the month – not ready for surgery
+15,15,percent of elective surgery patients waiting within the clinically recommended time on the day after the month – ready for surgery

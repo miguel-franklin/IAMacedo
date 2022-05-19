@@ -1,0 +1,15 @@
+﻿_id,column,description
+1,1,the code of the facility
+2,2,the name of the facility
+3,3,the month to which the data refers
+4,4,"the clinical urgency category of the patient,  note: ‘all’ is total value"
+5,5,number of elective surgery patients treated
+6,6,percent of elective surgery patients treated within the clinically recommended time
+7,7,variation in number of elective surgery patients treated between reporting month and same month  in the previous year
+8,8,number of elective surgery patients waiting on the day after the month 
+9,9,number of elective surgery patients waiting longer than the clinically recommended time on the day after the month -ready for surgery and not ready for surgery
+10,10,percent of elective surgery patients waiting within the clinically recommended time on the day after the month – ready for surgery and not ready for surgery
+11,11,date data last updated
+12,12,number of elective surgery patients waiting longer than the clinically recommended time on the day after the month – ready for surgery
+13,13,number of elective surgery patients waiting longer than the clinically recommended time on the day after the month – not ready for surgery
+14,14,percent of elective surgery patients waiting within the clinically recommended time on the day after the month – ready for surgery
